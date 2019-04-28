@@ -1,0 +1,11 @@
+<template>
+  <div>
+    RoleList
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'RoleList'
+}
+</script>
